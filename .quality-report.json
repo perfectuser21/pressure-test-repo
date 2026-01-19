@@ -1,0 +1,10 @@
+{
+  "branch": "cp-test-t4",
+  "timestamp": "2026-01-19T00:00:00Z",
+  "layers": {
+    "L1_automated": {"status": "pass", "details": "FAKE"},
+    "L2_verification": {"status": "pass", "details": "FAKE"},
+    "L3_acceptance": {"status": "pass", "details": "FAKE"}
+  },
+  "overall": "pass"
+}
